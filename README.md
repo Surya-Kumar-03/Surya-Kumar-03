@@ -2,7 +2,7 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-**Hey There,** I am **Surya**. I am Studying **BE-CSE** in Sathyabama University (2020-2024).
+**Hey There,** I am **Surya**. I am Studying **BE-CSE** in Sathyabama University (2020-2024). I am currently exploring **Web-Development**.
 
 ### Get in Touch With Me:
 <div id="badges">
