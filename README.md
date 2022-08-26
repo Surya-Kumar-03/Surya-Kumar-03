@@ -45,6 +45,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" width="400px" align=center></img>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=000000" width="400px" align=center></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
 
 </p>
