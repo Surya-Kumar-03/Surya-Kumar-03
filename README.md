@@ -36,7 +36,7 @@
 </div>
 
 ### 👨‍💻 My Projects:
-⭐ [Quick Quizizz](https://surya-kumar-03.github.io/Quick-Quizizz/)<br>
+⭐ [Quick Quizizz](https://stark-woodland-05603.herokuapp.com/index.html)<br>
 
 ### 📈 My Stats on GitHub:
 <p  align=center>
