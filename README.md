@@ -41,7 +41,7 @@
 
 ### 👨‍💻 My Projects:
 ⭐ [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
-&emsp; &emsp; [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
+&emsp; &emsp; ➡️[Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
 ### 📈 My Stats on GitHub:
 <p  align=center>
