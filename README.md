@@ -36,7 +36,7 @@
 </div>
 
 ### 👨‍💻 My Projects:
-⭐ [Quick Quizizz](https://stark-woodland-05603.herokuapp.com/index.html)<br>
+⭐ [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
 
 ### 📈 My Stats on GitHub:
 <p  align=center>
