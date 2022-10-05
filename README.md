@@ -2,7 +2,7 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-**Hey there!🙋‍♂️,** I am **Bandepalli Surya**. I am studying **BE-CSE** in Sathyabama University (2020-2024). I am currently exploring **DSA and Web-Development**. Feel free to [connect](#get-in-touch-with-me:) with me!
+**Hey there!🙋‍♂️,** I am **Bandepalli Surya**. I am studying **BE-CSE** in Sathyabama University (2020-2024). I am currently exploring **DSA and Web-Development**. Feel free to [connect](#get-in-touch-with-me) with me!
 
 ### Languages and Tools I am Familiar with:
 <div>
@@ -27,7 +27,7 @@
 </div>
 
 
-#Get in Touch With Me:
+### Get in Touch With Me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/bandepalli-surya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
