@@ -4,7 +4,7 @@
 
 **Hey there!🙋‍♂️,** I am **Bandepalli Surya**. I am studying **BE-CSE** in Sathyabama University (2020-2024). I am currently exploring **DSA and Web-Development**. Feel free to [connect](#get-in-touch-with-me) with me!
 
-### Languages and Tools I am Familiar with:
+### Languages and Tools I am familiar with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
 </div>
 
 
-### Get in Touch With Me:
+### Get in touch with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/bandepalli-surya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,7 +44,7 @@
 ⭐ [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
 &emsp; &emsp; ➡️[Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
-### My Stats on GitHub:
+### My stats on GitHub:
 <p  align=center>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
