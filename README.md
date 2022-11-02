@@ -2,7 +2,12 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-**Hello!🙋‍♂️** I am **Bandepalli Surya**. I'm studying **BE-CSE** at Sathyabama University (2020-2024). I'm currently exploring **DSA and Web-Development**. I also do Music Production in my leisure time. Feel free to [connect](#get-in-touch-with-me) with me!
+**Hey there!** 
+I am **Bandepalli Surya**. 
+I'm studying **BE-CSE** at Sathyabama University (2020-2024). 
+I'm currently exploring **DSA and Web-Development**. 
+I also do Music Production in my leisure time. 
+Feel free to [connect](#get-in-touch-with-me) with me!
 
 
 ### Languages and Tools I am familiar with:
