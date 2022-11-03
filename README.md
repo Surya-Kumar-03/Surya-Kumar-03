@@ -55,7 +55,6 @@
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
 ### My stats on GitHub:
-<details>
 
 <p  align=center>
 
@@ -66,4 +65,3 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
 
 </p>
-</details>
