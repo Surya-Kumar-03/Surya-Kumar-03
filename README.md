@@ -54,7 +54,11 @@
 - [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
-### My stats on GitHub:
+
+<details>
+<summary>
+  ### My stats on GitHub:
+</summary>
 <p  align=center>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
@@ -64,3 +68,4 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
 
 </p>
+</details>
