@@ -53,7 +53,7 @@
 ### My Projects:
 - [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
-- Work-Tracker<br>
+- Work-Tracker*<br>
   - [Repository](https://github.com/Vegito025/Work-Tracker)
 
 ### My stats on GitHub:
