@@ -2,6 +2,8 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
+![Blue Modern Elegant Entrepreneur Linkedin Banner (1)](https://user-images.githubusercontent.com/89148170/202228804-000c3c8c-ef7c-488f-87f9-b803510668b9.png)
+
 **Hey there!** 
 - I am **Bandepalli Surya**. 
 - I'm studying **BE-CSE** at Sathyabama University (2020-2024). 
