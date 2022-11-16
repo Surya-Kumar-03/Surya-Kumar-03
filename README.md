@@ -2,7 +2,7 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-<img src="https://user-images.githubusercontent.com/89148170/202228804-000c3c8c-ef7c-488f-87f9-b803510668b9.png" title="Banner" alt="Banner-about-Surya" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/89148170/202228804-000c3c8c-ef7c-488f-87f9-b803510668b9.png" title="Banner" alt="Banner-about-Surya" height="70"/>
 
 **Hey there!** 
 - I am **Bandepalli Surya**. 
