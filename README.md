@@ -2,7 +2,7 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-<img src="https://user-images.githubusercontent.com/89148170/202228804-000c3c8c-ef7c-488f-87f9-b803510668b9.png" title="Banner" alt="Banner-about-Surya" height="70"/>
+![Blue Modern Elegant Entrepreneur Linkedin Banner (1)](https://user-images.githubusercontent.com/89148170/202230205-cc299626-ef8b-44ed-93eb-bf91249a1611.png)
 
 **Hey there!** 
 - I am **Bandepalli Surya**. 
