@@ -9,7 +9,7 @@
 - I'm studying **BE-CSE** at Sathyabama University (2020-2024). 
 - I'm currently exploring **DSA and Web-Development**. 
 - I also do Music Production in my leisure time. 
-- Feel free to [connect](#get-in-touch-with-me) with me!
+- Feel free to connect with me, I enjoy getting to know amazing individuals.
 
 
 ### Languages and Tools I am familiar with:
