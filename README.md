@@ -56,7 +56,7 @@
 </div>
 
 ### My Projects:
-- [Quick Quizizz](https://quick-quizizz.herokuapp.com/)<br>
+- [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
 ### My stats on GitHub:
