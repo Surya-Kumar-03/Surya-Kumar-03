@@ -47,7 +47,7 @@
   <a target="_blank" href="mailto:bsuryakumar03@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
-  <a target="_blank" href="https://www.instagram.com/inactive_person_._/">
+  <a target="_blank" href="https://www.instagram.com/surya_._._._._._/">
     <img src = "https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a target="_blank" href="https://twitter.com/surya_mcp">
