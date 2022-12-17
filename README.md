@@ -36,7 +36,7 @@
 </div>
 
 
-### Get in touch with me:
+### Get in Touch with Me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/bandepalli-surya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,7 +63,7 @@
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 
-### My stats on GitHub:
+### My Stats on GitHub:
 
 <p  align=center>
 
