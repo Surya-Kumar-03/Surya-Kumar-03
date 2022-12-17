@@ -56,8 +56,8 @@
 </div>
 
 ### Checkout my Coding Profiles:
-<a href="leetcode.com/bsuryakumar03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsuryakumar03" height="30" width="40" /></a>
-<a href="auth.geeksforgeeks.org/user/bsuryakumar03/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bsuryakumar03" height="30" width="40" /></a>
+<a href="https://leetcode.com/bsuryakumar03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsuryakumar03" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bsuryakumar03" height="30" width="40" /></a>
 
 ### My Projects:
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
