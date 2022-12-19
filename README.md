@@ -65,12 +65,16 @@
 
 ### My Stats on GitHub:
 
-<p  align=center>
+<div align="center"> 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
+<table><tr><td valign="left" width="50%">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" width="400px" align=center></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&show_icons=true&include_all_commits=true&theme=radical" style="width: 100%" align="left" />
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
+</td><td valign="right" width="50%">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" align="right" style="width: 100%" />
+
+</td></tr></table> 
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align="center"></img>
+</div>
