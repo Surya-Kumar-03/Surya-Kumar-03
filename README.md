@@ -4,12 +4,10 @@
 
 ![Blue Modern Elegant Entrepreneur Linkedin Banner (1)](https://user-images.githubusercontent.com/89148170/202230205-cc299626-ef8b-44ed-93eb-bf91249a1611.png)
 
-**Hey there!** 
-- I am **Bandepalli Surya**. 
-- I'm studying **BE-CSE** at Sathyabama University (2020-2024). 
-- I'm currently exploring **DSA and Web-Development**. 
-- I also do Music Production in my leisure time. 
-- Feel free to connect with me, I enjoy getting to know amazing individuals.
+**Hey there,** I'm **Bandepalli Surya**. 
+- ✨I'm currently exploring **DSA and Web-Development🕸️**. 
+- 🎶I also do Music Production in my leisure time. 
+- 🤝Feel free to get in touch with me, I enjoy getting to know amazing individuals.
 
 
 ### Languages and Tools I am familiar with:
