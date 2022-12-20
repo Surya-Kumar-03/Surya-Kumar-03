@@ -2,8 +2,6 @@
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
-![Blue Modern Elegant Entrepreneur Linkedin Banner (1)](https://user-images.githubusercontent.com/89148170/202230205-cc299626-ef8b-44ed-93eb-bf91249a1611.png)
-
 **Hey there,** I'm **Bandepalli Surya**. 
 - ✨I'm currently exploring **DSA and Web-Development🕸️**. 
 - 🎶I also do Music Production in my leisure time. 
