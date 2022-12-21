@@ -58,6 +58,8 @@
 ### My Projects:
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
+- Notes App <br>
+  - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
 
 ### My Stats on GitHub:
 <p  align=center>
