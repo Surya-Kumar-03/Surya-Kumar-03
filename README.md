@@ -3,9 +3,9 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 
 **Hey there,** I'm **Surya**! 
-- ✨I'm currently exploring **DSA and Web-Development🕸️**. 
-- 🎶I also do Music Production in my leisure time. 
-- 🤝Feel free to get in touch with me, I enjoy getting to know amazing individuals.
+- I'm currently exploring **DSA and Web-Development🕸️**. 
+- I also do Music Production in my leisure time. 
+- Feel free to get in touch with me, I enjoy getting to know amazing individuals.
 
 
 ### Languages and Tools I am familiar with:
