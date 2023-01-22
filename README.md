@@ -60,7 +60,7 @@
 ### My Projects:
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
-- Space-Ship Model <br>
+- [Space-Ship Model](https://space-ship-model.netlify.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Space-Ship-Model)
 - Notes App <br>
   - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
