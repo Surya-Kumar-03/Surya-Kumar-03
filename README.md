@@ -62,7 +62,7 @@
 - Notes App <br>
   - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
 - [Steganography Implementation](https://aryanamish.github.io/steganography/)
-  - [Repository](https://github.com/Aryanamish/steganography)
+  - [Repository](https://github.com/Aryanamish/Steganography)
 
 
 ### My Stats on GitHub:
