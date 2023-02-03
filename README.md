@@ -1,6 +1,7 @@
 <h1 align="center">Bandepalli Surya Anjani Kumar</a></h1>
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
+<p align=center>Checkout my <a href="https://bandepalli-surya.netlify.app/">portfolio</a>.</p>
 
 ### **Hey there,** I'm **Surya**! 
 - I'm currently exploring **DSA and Web-Development**. 
