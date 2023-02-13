@@ -4,7 +4,8 @@
 <h2 align=center>Checkout my <a href="https://bandepalli-surya.netlify.app/">portfolio website</a>.</h2>
 
 ### **Hey there,** I'm **Surya**! 
-- I'm currently exploring **DSA and Web-Development**. 
+- I'm currently exploring **DSA and Machine-Learning**. 
+- I am familiar with Full-Stack Web Development.
 - I also do Music Production in my leisure time. 
 - Feel free to get in touch with me.
 
