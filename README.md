@@ -5,12 +5,12 @@
 
 ### **Hey there,** I'm **Surya**! 
 - I'm currently exploring **DSA and Machine-Learning**. 
-- I am familiar with Full-Stack Web Development.
+- I am familiar with full-stack web development.
 - I also do Music Production in my leisure time. 
-- Feel free to get in touch with me.
+- Feel free to get in touch.
 
 
-### Languages and Tools I am familiar with:
+### Languages and tools I am familiar with:
 <div>
   <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@
 </div>
 
 
-### Get in Touch with Me:
+### Get in touch:
 <div id="badges">
   <a href="https://www.linkedin.com/in/bandepalli-surya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -54,7 +54,7 @@
   </a>
 </div>
 
-### Checkout my Coding Profiles:
+### Checkout my coding profiles:
 <a href="https://leetcode.com/bsuryakumar03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsuryakumar03" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bsuryakumar03" height="30" width="40" /></a>
 
@@ -72,7 +72,7 @@
   - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
 
 
-### My Stats on GitHub:
+### My stats on GitHub:
 <p  align=center>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" width="400px" align=center></img>
