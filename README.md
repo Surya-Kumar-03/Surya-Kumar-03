@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://bandepalli-surya.netlify.app/" target="_blank">Bandepalli Surya Anjani Kumar</a></h1>
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
-<h2 align=center>Checkout my <a href="https://bandepalli-surya.netlify.app/" target="_blank">portfolio website</a>.</h2>
+<h3 align=center>Checkout my <a href="https://bandepalli-surya.netlify.app/" target="_blank">portfolio website</a>.</h3>
 
 ### **Hey there,** I'm **Surya**! 
 - I'm currently exploring **DSA and Machine-Learning**. 
