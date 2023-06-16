@@ -57,8 +57,8 @@
 </div>
 
 ### Checkout my coding profiles:
-<a href="https://leetcode.com/bsuryakumar03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsuryakumar03" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bsuryakumar03" height="30" width="40" /></a>
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
 - Events@Sathyabama<br>
