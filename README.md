@@ -57,9 +57,9 @@
 </div>
 
 ### Checkout my coding profiles:
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
+[![Surya's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
 <br/>
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
+[![Surya's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
 - Events@Sathyabama<br>
