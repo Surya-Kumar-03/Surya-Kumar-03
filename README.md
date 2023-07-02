@@ -69,6 +69,8 @@
   - [Repository](https://github.com/Surya-Kumar-03/Portfolio)
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
+- [Music-WebApp]<br>
+  - [Repository](https://github.com/Surya-Kumar-03/Music-WebApp)
 - [Space-Ship Model](https://space-ship-model.netlify.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Space-Ship-Model)
 - [Property Booking System](https://hotel-rental.onrender.com/login)
