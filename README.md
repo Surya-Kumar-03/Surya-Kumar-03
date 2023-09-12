@@ -3,7 +3,7 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=Surya-Kumar-03&style=flat-square&color=blue" alt=""/></p>
 <h3 align=center>Checkout my <a href="https://bandepalli-surya.netlify.app/" target="_blank">portfolio website</a>.</h3>
 
-- Hi, I am a Computer Science and Engineering Student at Sathyabama University (2020-2024) with a keen interest in Data Structures and Algorithms (DSA) and Full-Stack Web Development. 
+- Hi, I am a Computer Science and Engineering Student at Sathyabama University (2020-2024) with a keen interest in Data Structures and Algorithms (DSA) and Full-Stack Development. 
 - I am experienced in creating and deploying web applications and have worked on several projects in this field. Apart from my academic pursuits, I am also passionate about music production and enjoy spending my leisure time creating new beats and tracks. 
 - If you are interested in connecting with me or collaborating on a project, please don't hesitate to reach out!
 
