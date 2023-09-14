@@ -66,22 +66,23 @@
 [![Surya's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
-- Events@Sathyabama<br>
-  - [Repository](https://github.com/Surya-Kumar-03/Event-Management)
+- [Events@Sathyabama](https://events-sathyabama-production.up.railway.app/)
+  - [Production](https://events-sathyabama.vercel.app/)
+  - [Repository](https://github.com/Events-Sathyabama/Events-Sathyabama)
 - [Personal-Portfolio Website](https://bandepalli-surya.netlify.app/)
   - [Repository](https://github.com/Surya-Kumar-03/Portfolio)
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
-- GFG Code Formatter<br>
+- [GFG Code Formatter](https://microsoftedge.microsoft.com/addons/detail/geeksforgeeks-code-format/ekjbfkjlafjaegpnbdgkheflepldlgfb)
   - [Repository](https://github.com/Surya-Kumar-03/GFG-Code-Formatter)
-- Music-WebApp<br>
-  - [Repository](https://github.com/Surya-Kumar-03/Music-WebApp)
 - [Space-Ship Model](https://space-ship-model.netlify.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Space-Ship-Model)
 - [Property Booking System](https://hotel-rental.onrender.com/login)
   - [Repository](https://github.com/Surya-Kumar-03/Property-Booking-System)
 - [Steganography Implementation](https://aryanamish.github.io/Steganography/)
   - [Repository](https://github.com/Aryanamish/Steganography)
+- Music-WebApp<br>
+  - [Repository](https://github.com/Surya-Kumar-03/Music-WebApp)
 - Notes App <br>
   - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
 
