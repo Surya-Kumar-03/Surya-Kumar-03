@@ -24,7 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/89148170/223796508-856e9d87-6d8e-4cdf-b1e6-813c1e53d0ea.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/89148170/194026320-01552edd-6d31-4d87-bb71-9a4d9b1f0eac.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -73,6 +73,8 @@
   - [Repository](https://github.com/Surya-Kumar-03/Portfolio)
 - [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
+- SongStreamHub <br>
+  - [Repository](https://github.com/Surya-Kumar-03/SongStreamHub)
 - [GFG Code Formatter](https://microsoftedge.microsoft.com/addons/detail/geeksforgeeks-code-format/ekjbfkjlafjaegpnbdgkheflepldlgfb)
   - [Repository](https://github.com/Surya-Kumar-03/GFG-Code-Formatter)
 - [Space-Ship Model](https://space-ship-model.netlify.app/)<br>
@@ -81,8 +83,6 @@
   - [Repository](https://github.com/Surya-Kumar-03/Property-Booking-System)
 - [Steganography Implementation](https://aryanamish.github.io/Steganography/)
   - [Repository](https://github.com/Aryanamish/Steganography)
-- Music-WebApp<br>
-  - [Repository](https://github.com/Surya-Kumar-03/Music-WebApp)
 - Notes App <br>
   - [Repository](https://github.com/Surya-Kumar-03/Notes-App)
 - [Adaptive MFA](https://github.com/Surya-Kumar-03/Arcon-MFA)
@@ -91,9 +91,6 @@
 
 ### My stats on GitHub:
 <p  align=center>
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" width="400px" align=center></img>
-
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
-
 </p>
