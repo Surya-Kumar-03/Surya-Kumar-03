@@ -36,25 +36,36 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
+[![OAuth](https://img.shields.io/badge/-OAuth-2CA5E0?logo=oauth&logoColor=white&style=for-the-badge)](https://oauth.net/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/) 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
 
-
 ### Get in touch:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/bandepalli-surya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/787550084371578891">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a target="_blank" href="mailto:bsuryakumar03@gmail.com">
-    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/bandepalli-surya/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Surya's LinkedIn"
+  />
+</a>
+<a href="https://discordapp.com/users/787550084371578891">
+  <img
+    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Surya's Discord"
+  />
+</a>
+<a target="_blank" href="mailto:bsuryakumar03@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Surya's Mail"
+  />
+</a>
+
 
 ### Checkout my coding profiles:
 [![Surya's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
@@ -85,7 +96,7 @@
 - [Elastic Search](https://github.com/Surya-Kumar-03/Arcon-ElasticSearch)
 
 
-## Some Stats!
+### Some Stats!
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
