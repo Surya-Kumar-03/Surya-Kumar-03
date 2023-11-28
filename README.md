@@ -66,7 +66,7 @@
     <img
       src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03"
       alt="Surya's GeeksforGeeks stats"
-      width="400"
+      width="200"
       height="200"
     />
   </a>
