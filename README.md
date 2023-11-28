@@ -47,30 +47,13 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
 
-### Get in touch:
-<a href="https://www.linkedin.com/in/bandepalli-surya/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Surya's LinkedIn"
-  />
-</a>
-<a href="https://discordapp.com/users/787550084371578891">
-  <img
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Surya's Discord"
-  />
-</a>
-<a target="_blank" href="mailto:bsuryakumar03@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Surya's Mail"
-  />
-</a>
+### Get in Touch
+[![Surya's LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bandepalli-surya/)
+[![Surya's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/787550084371578891)
+[![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
-
-### Checkout my coding profiles:
+### See what I've been Coding
 [![Surya's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
-<br/>
 [![Surya's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
