@@ -53,13 +53,16 @@
 [![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
 ### My Coding Portfolio
-<a href="https://leetcode.com/bsuryakumar03/">
-  <img src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Surya's LeetCode Stats" width="400" height="200">
-</a>
-<a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03" alt="Surya's GeeksforGeeks stats" width="400" height="200">
-</a>
-
+<div align="center">
+  <a href="https://leetcode.com/bsuryakumar03/">
+    <img
+      src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap"
+      alt="Surya's LeetCode Stats"
+      width="400"
+      height="200"
+    />
+  </a>
+</div>
 
 ### My Projects:
 - [Events@Sathyabama](https://events-sathyabama-production.up.railway.app/)
