@@ -65,19 +65,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
 
-### My Projects:
+### My Projects
 - [Events@Sathyabama](https://events-sathyabama-production.up.railway.app/)
   - [Production](https://events-sathyabama.vercel.app/)
   - [Repository](https://github.com/Events-Sathyabama/Events-Sathyabama)
 - [Personal-Portfolio Website](https://bandepalli-surya.netlify.app/)
   - [Repository](https://github.com/Surya-Kumar-03/Portfolio)
-- [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)<br>
+- [Quick Quizizz](https://lazy-erin-seahorse-tux.cyclic.app/)
   - [Repository](https://github.com/Surya-Kumar-03/Quick-Quizizz)
 - SongStreamHub <br>
   - [Repository](https://github.com/Surya-Kumar-03/SongStreamHub)
 - [GFG Code Formatter](https://microsoftedge.microsoft.com/addons/detail/geeksforgeeks-code-format/ekjbfkjlafjaegpnbdgkheflepldlgfb)
   - [Repository](https://github.com/Surya-Kumar-03/GFG-Code-Formatter)
-- [Space-Ship Model](https://space-ship-model.netlify.app/)<br>
+- [Space-Ship Model](https://space-ship-model.netlify.app/)
   - [Repository](https://github.com/Surya-Kumar-03/Space-Ship-Model)
 - [Property Booking System](https://hotel-rental.onrender.com/login)
   - [Repository](https://github.com/Surya-Kumar-03/Property-Booking-System)
