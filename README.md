@@ -55,7 +55,7 @@
 ### Some Stats!
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px; justify-items: center;">
   <a href="https://leetcode.com/bsuryakumar03/">
-    <img src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Surya's LeetCode Stats" height="200">
+    <img src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Surya's LeetCode Stats" height="190">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/">
     <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03" alt="Surya's GeeksforGeeks stats" height="200">
