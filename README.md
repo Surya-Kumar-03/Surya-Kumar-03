@@ -53,26 +53,16 @@
 [![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
 ### Some Stats!
-<div align="center">
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px; justify-items: center;">
   <a href="https://leetcode.com/bsuryakumar03/">
-    <img
-      src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap"
-      alt="Surya's LeetCode Stats"
-      height="200"
-      style="border: 2px solid white;"
-    />
+    <img src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Surya's LeetCode Stats" height="200">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/">
-    <img
-      src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03"
-      alt="Surya's GeeksforGeeks stats"
-      height="200"
-      style="border: 2px solid white;"
-    />
+    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03" alt="Surya's GeeksforGeeks stats" height="200">
   </a>
-  <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
 
 ### My Projects:
