@@ -52,7 +52,7 @@
 [![Surya's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/787550084371578891)
 [![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
-### My Coding Portfolio
+### Some Stats!
 <div align="center">
   <a href="https://leetcode.com/bsuryakumar03/">
     <img
@@ -66,10 +66,13 @@
     <img
       src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03"
       alt="Surya's GeeksforGeeks stats"
-      width="200"
+      width="400"
       height="200"
     />
   </a>
+  <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ### My Projects:
@@ -95,10 +98,3 @@
 - [Adaptive MFA](https://github.com/Surya-Kumar-03/Arcon-MFA)
 - [Elastic Search](https://github.com/Surya-Kumar-03/Arcon-ElasticSearch)
 
-
-### Some Stats!
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
