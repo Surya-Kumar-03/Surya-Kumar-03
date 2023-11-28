@@ -62,6 +62,14 @@
       height="200"
     />
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/">
+    <img
+      src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03"
+      alt="Surya's GeeksforGeeks stats"
+      width="400"
+      height="200"
+    />
+  </a>
 </div>
 
 ### My Projects:
