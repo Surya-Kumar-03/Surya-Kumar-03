@@ -89,8 +89,9 @@
 - [Elastic Search](https://github.com/Surya-Kumar-03/Arcon-ElasticSearch)
 
 
-### My stats on GitHub:
-<p  align=center>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Kumar-03&layout=compact&theme=radical" width="400px" align=center></img>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Surya-Kumar-03&theme=dark&background=141321" width="400px" align=center></img>
-</p>
+## My stats on GitHub:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Surya-Kumar-03&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-Kumar-03&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-Kumar-03&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
