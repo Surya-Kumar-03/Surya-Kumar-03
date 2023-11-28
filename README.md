@@ -52,8 +52,8 @@
 [![Surya's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/787550084371578891)
 [![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
-### See what I've been Coding
-[![Surya's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bsuryakumar03&theme=dark)](https://leetcode.com/bsuryakumar03/)
+### My Coding Portfolio
+[![Surya's LeetCode Stats](https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap)](https://leetcode.com/bsuryakumar03/)
 [![Surya's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
