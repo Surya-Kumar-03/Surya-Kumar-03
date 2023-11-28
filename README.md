@@ -58,7 +58,6 @@
     <img
       src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap"
       alt="Surya's LeetCode Stats"
-      width="400"
       height="200"
     />
   </a>
@@ -66,7 +65,6 @@
     <img
       src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03"
       alt="Surya's GeeksforGeeks stats"
-      width="400"
       height="200"
     />
   </a>
