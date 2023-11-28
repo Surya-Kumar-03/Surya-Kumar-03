@@ -53,7 +53,9 @@
 [![Surya's Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuryakumar03@gmail.com)
 
 ### My Coding Portfolio
-[![Surya's LeetCode Stats](https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap)](https://leetcode.com/bsuryakumar03/)
+<a href="https://leetcode.com/bsuryakumar03/">
+  <img src="https://leetcard.jacoblin.cool/bsuryakumar03?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Surya's LeetCode Stats" width="400" height="200">
+</a>
 [![Surya's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bsuryakumar03)](https://auth.geeksforgeeks.org/user/bsuryakumar03/practice/)
 
 ### My Projects:
