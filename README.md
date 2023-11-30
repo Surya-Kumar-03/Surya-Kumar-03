@@ -66,7 +66,7 @@
 </div>
 
 ### My Projects
-- [Events@Sathyabama](https://events-sathyabama-production.up.railway.app/)
+- [Events@Sathyabama](https://events-sathyabama.netlify.app/)
   - [Production](https://events-sathyabama.vercel.app/)
   - [Repository](https://github.com/Events-Sathyabama/Events-Sathyabama)
 - [Personal-Portfolio Website](https://bandepalli-surya.netlify.app/)
