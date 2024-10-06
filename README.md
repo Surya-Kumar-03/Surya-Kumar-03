@@ -5,7 +5,7 @@
 
 ### About Me
 - Hi, I'm currently a Member of Technical Staff at [Zoho Corporation](https://www.zohocorp.com/), with a keen interest in Data Structures and Algorithms (DSA) and Full-Stack Development.
-- I have experience in creating and deploying full-stack web applications and native C++ applications, with a background in networking. I have worked on several projects in these fields. Apart from my academic pursuits, I am also passionate about music production and enjoy spending my leisure time creating new beats and tracks.
+- I have experience in creating and deploying full-stack web, java and native C++ applications, with a background in networking. I have worked on several projects in these fields. Apart from my academic pursuits, I am also passionate about music production and enjoy spending my leisure time creating new beats and tracks.
 - If you are interested in connecting with me or collaborating on a project, please don't hesitate to reach out!
   
 
